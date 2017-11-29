@@ -1,3 +1,15 @@
+/*===============================================================================================================================
+        CLASS Name:    UnzipOutputFileGenerated
+        CREATED BY:    Navya Mallajosyula
+        DATE CREATED:  Nov 2017
+        DESCRIPTION:   Code to unzip output folder and GI interface folder                   
+        PARAMETERS:                                                                  
+        RETURNS:      
+        COMMENTS:                                     
+        Modification Log:
+        Date                             Initials                                                Modification
+        
+-------------         ------------    ------------------------------------------------------------------------------------------------------------------------------*/
 package OCTS_Automation_Main_Modules;
 
 import java.io.File;
