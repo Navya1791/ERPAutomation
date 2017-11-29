@@ -1,3 +1,15 @@
+/*===============================================================================================================================
+        CLASS Name:    NumberOfLines
+        CREATED BY:    Navya Mallajosyula
+        DATE CREATED:  Nov 2017
+        DESCRIPTION:   Number of Lines  Validation                    
+        PARAMETERS:                                                                  
+        RETURNS:      
+        COMMENTS:                                     
+        Modification Log:
+        Date                             Initials                                                Modification
+        
+-------------         ------------    ------------------------------------------------------------------------------------------------------------------------------*/
 package OCTS_Automation_Main_Modules;
 
 import java.io.BufferedReader;
