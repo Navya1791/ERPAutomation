@@ -1,3 +1,15 @@
+/*===============================================================================================================================
+        CLASS Name:    ReadERPInputDataSheet
+        CREATED BY:    Navya Mallajosyula
+        DATE CREATED:  Nov 2017
+        DESCRIPTION:   Parsing Input Data sheet and GI interface file                    
+        PARAMETERS:                                                                  
+        RETURNS:      
+        COMMENTS:                                     
+        Modification Log:
+        Date                             Initials                                                Modification
+        
+-------------         ------------    ------------------------------------------------------------------------------------------------------------------------------*/
 package OCTS_Automation_Main_Modules;
 
 import java.io.BufferedReader;
